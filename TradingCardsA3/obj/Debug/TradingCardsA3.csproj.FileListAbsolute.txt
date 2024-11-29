@@ -1,0 +1,33 @@
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.exe.config
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.exe
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.pdb
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Form1.resources
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Properties.Resources.resources
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Resources.resources
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.GenerateResource.cache
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.exe
+C:\Users\erika\OneDrive\Escritorio\Term 3\Rapid Development\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.pdb
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.exe.config
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.exe
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.pdb
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.AssemblyReference.cache
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Form1.resources
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Properties.Resources.resources
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Resources.resources
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.GenerateResource.cache
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.CoreCompileInputs.cache
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.exe
+C:\Users\asoar\Downloads\TradingCardsA3-main\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.pdb
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.exe.config
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.exe
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\bin\Debug\TradingCardsA3.pdb
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.AssemblyReference.cache
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Form1.resources
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Properties.Resources.resources
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.Resources.resources
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.GenerateResource.cache
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.csproj.CoreCompileInputs.cache
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.exe
+C:\Users\asoar\Desktop\C#\TradingCardsA3\TradingCardsA3\obj\Debug\TradingCardsA3.pdb
